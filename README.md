@@ -1,1 +1,2 @@
-# AWS-course
+# AWS
+Amazon Web Services
